@@ -1,0 +1,13 @@
+Planning for the journey that how to become the good software developer.....
+what needs to do .
+1.core java
+-explore and analyse how to create our own api , standards, logics
+-core concept of array,collection,exception, multi-threading 
+2.J2EE
+-Servlet,Jsp,Jstl,
+-session tracking,cookies,filter
+3.Frameworks
+-spring(spring core, spring ioc,spring jdbc,spring aop)
+4.ORM
+-hibernate
+-jpa
