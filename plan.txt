@@ -11,3 +11,6 @@ what needs to do .
 4.ORM
 -hibernate
 -jpa
+5.DataBase 
+-sql
+-mysql
