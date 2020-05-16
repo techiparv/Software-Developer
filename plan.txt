@@ -1,6 +1,5 @@
-================I am thinking this the test branch let's try to merger and request for pull=========
-Planning for the journey that how to become the good software developer.....
-what needs to do .
+Software Developer- Java
+
 1.core java
 -explore and analyse how to create our own api , standards, logics
 -core concept of array,collection,exception, multi-threading 
@@ -15,3 +14,15 @@ what needs to do .
 5.DataBase 
 -sql
 -mysql
+6.Mirco-Services
+-architecture
+-different Components(spring restcontroller,Eureka Server,Api Gateway, Central Config Server,RabbitMq/Kafka etc)
+-Security
+-Central Config File(Git and Native and Use of Rabbit Mq)
+-Central logging (Sleuth and Zepkin,kibana)--adding trace id and span id--adding indexing in kibana
+-Deploying mirco-services in the cloud(spring cloud,aws,azurea,google etc)
+7.Java 8 Features
+8.Cloud
+9.Leet(Questions)
+
+
