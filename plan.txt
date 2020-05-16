@@ -1,5 +1,4 @@
 Software Developer- Java
-
 1.core java
 -explore and analyse how to create our own api , standards, logics
 -core concept of array,collection,exception, multi-threading 
@@ -27,5 +26,6 @@ Software Developer- Java
 10.Spring Boot in depth
 11.System Design and Analysis
 12.Front End Technologies (Java Script ,Jquery and AngularJS)
+13.Junit Test ad
 
 
